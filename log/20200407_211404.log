@@ -1,0 +1,18 @@
+Copying file://./sample-dir/100_1.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/ 15.6 KiB]                                                / [1 files][ 15.6 KiB/ 15.6 KiB]                                                
+Operation completed over 1 objects/15.6 KiB.                                     
+Copying file://./sample-dir/100_2.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/ 37.3 KiB]                                                / [1 files][ 37.3 KiB/ 37.3 KiB]                                                
+Operation completed over 1 objects/37.3 KiB.                                     
+Copying file://./sample-dir/100_3.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/ 49.1 KiB]                                                / [1 files][ 49.1 KiB/ 49.1 KiB]                                                
+Operation completed over 1 objects/49.1 KiB.                                     
+Copying file://./sample-dir/200_1.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/  8.3 KiB]                                                / [1 files][  8.3 KiB/  8.3 KiB]                                                
+Operation completed over 1 objects/8.3 KiB.                                      
+Copying file://./sample-dir/200_2.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/ 13.8 KiB]                                                / [1 files][ 13.8 KiB/ 13.8 KiB]                                                
+Operation completed over 1 objects/13.8 KiB.                                     
+Copying file://./sample-dir/200_3.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/ 11.3 KiB]                                                / [1 files][ 11.3 KiB/ 11.3 KiB]                                                
+Operation completed over 1 objects/11.3 KiB.                                     
